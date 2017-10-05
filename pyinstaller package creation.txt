@@ -1,0 +1,1 @@
+py -3 <pyinstaller path> --onefile --windowed --hidden-import=tkinter --hidden-import=queue --hidden-import=urllib3 --hidden-import=requests <python file path>
